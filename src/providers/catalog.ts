@@ -216,7 +216,7 @@ export const PROVIDERS: ProviderInfo[] = [
 	{
 		id: "opper",
 		name: "Opper",
-		description: "EU-hosted gateway — 700+ models from 30+ providers, one key — live catalog",
+		description: "EU-hosted gateway — 700+ models from 50+ providers, one key — live catalog",
 		keyUrl: "https://platform.opper.ai",
 		envVar: "OPPER_API_KEY",
 		custom: true,
